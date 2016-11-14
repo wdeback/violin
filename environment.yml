@@ -1,0 +1,9 @@
+name: environment
+
+dependencies:
+  - python=2.7
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - seaborn
